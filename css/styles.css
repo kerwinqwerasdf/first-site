@@ -1,0 +1,162 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+p {
+    line-height: 2;
+  }
+
+  hr {
+  border-style: none;
+  border: dotted lightgray;
+  border-bottom: none;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto;
+  }
+
+  a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #EAF6F6;
+  }
+
+.Topcontainer {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-Topcontainer {
+ margin: 100px 0;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.profpic {
+  height: 200px;
+
+}
+
+.footerlink1{
+
+  font-family: 'Montserrat', sans-serif;
+
+}
+.footerlink2{
+
+  font-family: 'Montserrat', sans-serif;
+
+}
+.footerlink3{
+
+  font-family: 'Montserrat', sans-serif;
+
+}
+.web{
+  font-weight: normal;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+
+}
+
+.dota2-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.valorant-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.music-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.descrption{
+  width: 30%;
+  margin: auto auto 8% auto;
+}
+
+.tawag {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+	background-color:#11cdd4;
+	border-radius:8px;
+	border:1px solid #24878a;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat';
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #11999e;
+  margin: auto auto 80px auto;
+}
+.myButton:hover {
+	background-color:#3bc4ad;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
